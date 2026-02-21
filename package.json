@@ -1,5 +1,5 @@
 {
-  "name": "@pleme/observability",
+  "name": "@pleme-io/observability",
   "version": "1.0.0",
   "description": "CNCF-aligned frontend observability with telemetry, metrics, and Web Vitals",
   "type": "module",
